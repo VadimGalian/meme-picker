@@ -160,3 +160,15 @@ input[type="radio"]{
     background-color: #bd301d;
     border: 2px solid #bd301d;
 }
+
+.thumbnails{
+    display:flex;
+    justify-content: center;
+
+    margin-top: 10px;
+}
+
+.thumbnails img{
+    max-width: 50px;
+    margin: 0 3px;
+}
